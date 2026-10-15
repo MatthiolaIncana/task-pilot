@@ -1,0 +1,11 @@
+.env
+.env.*
+secrets/
+private/
+tmp/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
